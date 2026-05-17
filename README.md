@@ -20,11 +20,11 @@
 
 > Passionnée par le web et l'entrepreneuriat, je construis des projets full-stack
 > et accompagne des indépendants dans leur présence en ligne.
-> Toujours en train d'apprendre, toujours en train de créer. ✨
+> Toujours en train d'apprendre, toujours en train de créer.
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 **Front-end**
 
@@ -44,15 +44,15 @@
 
 ---
 
-## 🚀 En ce moment
+## En ce moment
 
-- 🎓 En L3 Informatique — toujours en train d'apprendre
+- 🎓 En stage de fin d'L3 Informatique — toujours en train d'apprendre
 - 💼 **Disponible pour des missions freelance web** — n'hésite pas à me contacter !
 - 🌱 En train d'approfondir Next.js et NestJS
 
 ---
 
-## ✨ En dehors du code
+## En dehors du code
 
 | 📚 Lecture | 🍳 Cuisine | ✈️ Voyage |
 |:---:|:---:|:---:|
@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 Mes stats GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odessapereira&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odessapereira&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="150" />
-</p>
-
----
-
-<p align="center">
-  <em>💌 Tu as un projet ? Parlons-en → <a href="mailto:odessa.tpereira@icloud.com">odessa.tpereira@icloud.com</a></em>
+  <em>Tu as un projet ? Parlons-en → <a href="mailto:odessa.tpereira@icloud.com">odessa.tpereira@icloud.com</a></em>
 </p>
